@@ -1,0 +1,19 @@
+{
+  "name": "chat_application",
+  "version": "1.0.0",
+  "description": "Chat application made using websockets.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/therohitramesh/chat_application.git"
+  },
+  "author": "Rohit Ramesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therohitramesh/chat_application/issues"
+  },
+  "homepage": "https://github.com/therohitramesh/chat_application"
+}

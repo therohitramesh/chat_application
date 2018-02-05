@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/therohitramesh/chat_application/issues"
   },
-  "homepage": "https://github.com/therohitramesh/chat_application"
+  "homepage": "https://github.com/therohitramesh/chat_application",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
